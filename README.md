@@ -22,4 +22,5 @@ A simple Generative AI application that converts text prompts into images using 
 
 ## Screenshot
 
-(Add screenshot here)
+
+
